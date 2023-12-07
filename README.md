@@ -41,10 +41,8 @@ This is a comprehensive report on the project that outlines the below:\
 
 ### Static Website
 A static website has been developed for future extension downloads. \
-Here is the link to the running website (note that the URL will have to change at later stages):\
-https://thankful-pebble-06113060f.4.azurestaticapps.net/ \
 Here is the link to static website's code:\
-==xxx==
+https://github.com/Shaunessee-Green/Fact-Guardian-Webpage.git 
 
 
 ### Future Work
