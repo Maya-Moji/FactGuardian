@@ -20,7 +20,8 @@ This is a Chrome extension that scans the content of your Twitter feed and detec
 
 ## Demo
 Check out the extension in action:\
-https://github.com/Maya-Moji/Fact-Guardian/assets/106558260/fb8d95af-3a41-4d72-ab2d-c598cbd89e98
+Uploading Fact Guardian Demo v2 - Made with Clipchamp.mp4…
+
 
 
 
