@@ -20,16 +20,13 @@ This is a Chrome extension that scans the content of your Twitter feed and detec
 
 ## Demo
 Check out the extension in action:\
-Uploading Fact Guardian Demo v2 - Made with Clipchamp.mp4…
-
-
-
+https://github.com/Maya-Moji/FactGuardian/assets/106558260/4145e0f7-deda-4f72-b72d-2c023ff5f4bf
 
 
 ## Documentation
 ### Project Report
 This is a comprehensive report on the project that outlines the below:\
-[Project Report.pdf](https://github.com/Maya-Moji/Fact-Guardian/files/13602313/Project.Report.pdf)
+[Final Project Report.pdf](https://github.com/Maya-Moji/FactGuardian/files/13604761/Final.Project.Report.pdf)
 - Product Description
 - Team and Client Description
 - Requirements
