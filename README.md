@@ -7,15 +7,16 @@ This is a Chrome extension that scans the content of your Twitter feed and detec
 ## Guide
 1. Download the package.
 2. Install the extension on your Chrome browser in developer mode. Load the content of the extension folder.
-3. Run the run_me_first.py file located in "processing" folder.
-4. Browse to Twitter (X).
-5. Click on Fact Guardian logo on your browser.
-6. Click on the refresh button for the extension to scan your feed.
-7. Click on "Show Me" button to see the content of the flagged tweet.
-8. Click on "Yes" button to navigate to response generation.
-9. Click on reload icon if you are not satisfied with the auto-generated response.
-10. Click on "Post" button to post the auto-generated response as a reply to the flagged post.
-11. Click on Fact Guardian logo again to close the extension.
+3. Replace the API key where noted in popup.js file with your API key obtained from Open AI.
+4. Run the run_me_first.py file located in "processing" folder.
+5. Browse to Twitter (X).
+6. Click on Fact Guardian logo on your browser.
+7. Click on the refresh button for the extension to scan your feed.
+8. Click on "Show Me" button to see the content of the flagged tweet.
+9. Click on "Yes" button to navigate to response generation.
+10. Click on reload icon if you are not satisfied with the auto-generated response.
+11. Click on "Post" button to post the auto-generated response as a reply to the flagged post.
+12. Click on Fact Guardian logo again to close the extension.
 
 
 ## Demo
