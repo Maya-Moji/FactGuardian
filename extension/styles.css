@@ -1,0 +1,111 @@
+body {
+  width: 300px;
+  length: auto;
+  padding: 0.1em;
+  border-radius: 2em;
+  font-family: "Arial", sans-serif;
+  padding-block: 0px;
+  margin: 0px;
+  background: #F4F4F6; /*light grey*/
+}
+.rcorners1 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+  border-style: solid;
+  border-color:#F4F4F6; /*light grey*/
+  background: #0046AF; /*blue*/
+  color: #FFFFFF;
+  border-radius: 1.5em;
+}
+        #hiddenSection{
+            padding: 1em;
+            color: #FFFFFF;
+            border-radius: 50% 20% / 10% 40%;
+            background: #2f7fb3; /*light blue*/
+            margin: 0.5em;
+        }
+.logo {
+  margin: 30px;
+  left: 5px;
+  margin-top: 0px;
+  height: 30px;
+}
+.logo img {
+  height: 25px;
+  margin-bottom: -5px;
+}
+.logo a {
+  font-weight: 600;
+  font-size: medium;
+  background-image: linear-gradient(
+    45deg,
+    #ca4246 16.666%,
+    #e16541 16.666%,
+    #e16541 33.333%,
+    #f18f43 33.333%,
+    #f18f43 50%,
+    #8b9862 50%,
+    #8b9862 66.666%,
+    #208cec 66.666%,
+    #8357b4 83.333%,
+    #a7489b 83.333%
+  );
+
+  /* Set the background size and repeat properties. */
+  background-size: 100%;
+  background-repeat: repeat;
+
+  /* Use the text as a mask for the background. */
+  /* This will show the gradient as a text color rather than element bg. */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.middleText {
+  padding: 1em;
+}
+
+        button {
+            border-radius: 2em;
+            background-color:#F4F4F6; /*light grey*/
+            color: #0046AF; /*blue*/
+            border-color: #707070; /*grey*/
+            border: none;
+            top:50%;
+            margin: 0.5em;
+            width: 80px;
+        }
+        button:hover {
+        background-color: #ffffff;
+        color:#0046AF; /*blue*/
+        transition: all 0.2s;
+        /*font-weight: bold;*/
+        }
+        #showMe{
+        width: 110px;
+        }
+        .btnLocation{
+        margin-left:auto;
+        margin-right:auto;
+        }
+
+#reload {
+  width: 40px;
+}
+
+/* Add CSS styles for the popup */
+#popup {
+  display: none;
+  position: relative;
+  border-radius: 25px;
+  margin-left: 20px;
+  transform: translate(-10%, -10%);
+  padding: 10px;
+  color: blue;
+  border: 2px solid #ccc;
+  border-color: #62bcfc;
+  background-color: #0046af;
+  z-index: 9999;
+}

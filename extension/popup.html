@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fact Guardian Popup</title>
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+  </head>
+  <body>
+    <div class="rcorners1">
+      <div class="logo">
+        <img src="logo_v3.jpg" alt="Fact Guardian" />
+        <a> Fact Guardian</a>
+          &nbsp;&nbsp;
+        <!-- refresh button -->
+        <img id="refresh" src="youtube_searched_for_FILL0_wght400_GRAD0_opsz24.svg" title="refresh" name="refresh" width="15">
+        <br />
+      </div>
+        <!-- middle text -->
+        <div class="text" id="text">
+            <label class="middleText" id="flagDetection">
+            </label>
+            <br />
+        </div>
+    <button id='showMe'>Show Tweet</button>
+<!--popup-->
+    <div id="hiddenSection">
+        <!--popup-content-->
+        <label id="amIVisible">
+            No posts are flagged.
+        </label>
+    </div>
+      <br />
+        <!--control buttons-->
+    <table class="btnLocation">
+        <tr>
+        <td>
+            <button id="post">POST</button>
+            <button id="yesToStart">YES</button>
+        </td>
+        <td>
+             <button id="reload">&#8635;</button>
+        </td>
+        <td>
+            <button id="cancel">CANCEL</button>
+            <button id="noToStart">NO</button>
+        </td>
+        </tr>
+    </table>
+      <script src="popup.js"></script>
+    </div>
+  </body>
+</html>
